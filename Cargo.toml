@@ -1,0 +1,17 @@
+[package]
+name = "van_mar_2023_hashmap_thread_byteorder_new"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+#ethereum-types = "0.14.1"
+#k256 = { version = "0.12.0", default-features = true, features = ["arithmetic"] }
+primitive-types = "0.12.1"
+secp256k1 = "0.26.0"
+#ethers = "1.0.2"
+#redis = "0.22.3"
+tiny-keccak = { version = "2.0.1", features = ["keccak"] }
+hex = { version = "0.4.3", default-features = false, features = ["std"] }
+#crossbeam = { version = "0.8.2" }
+#rayon = "1.6.1"
+#crossbeam-utils = "0.8.14"
